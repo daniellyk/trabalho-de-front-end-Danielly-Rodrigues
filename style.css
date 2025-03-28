@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #000000;
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
@@ -32,7 +32,7 @@ main {
 }
 
 h2 {
-    color: #35424a;
+    color: #000000;
 }
 
 .receita {
@@ -54,7 +54,7 @@ h2 {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 15px;
-    background: #35424a;
+    background: #000000;
     color: #ffffff;
     text-decoration: none;
     border-radius: none;
