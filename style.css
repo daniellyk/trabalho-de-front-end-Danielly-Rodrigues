@@ -60,3 +60,41 @@ h2 {
     border-radius: none;
 }
 
+.escondidinho {
+    width: 40000px;
+    height: 300px;
+    background-image: url('Escondidinho_de_carne_moída.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  
+ 
+  .fricasse {
+    width: 400px;
+    height: 300px;
+    background-image: url('fricasse-1628262666.webp');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  
+
+  .lasanha {
+    width: 400px;
+    height: 300px;
+    background-image: url('lasanha-de-carne-com-requeijao-Terra-1-12.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  
+  .carbonara {
+    width: 400px;
+    height: 300px;
+    background-image: url('macarrao-carbonara-1.webp');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  
